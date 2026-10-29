@@ -1,0 +1,5 @@
+.env
+scripts/.env
+*.key
+*.pem
+*.crt
